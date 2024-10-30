@@ -1,0 +1,12 @@
+[general]
+import = [
+  "~/.config/alacritty/themes/github_light_colorblind.toml"
+]
+
+[window]
+decorations_theme_variant = "Light"
+opacity = 0.90
+
+[font]
+size = 18.0
+normal = { family = "MesloLGS NF", style = "Regular" }
