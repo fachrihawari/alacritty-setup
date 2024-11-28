@@ -9,7 +9,7 @@ shell.args = ["-l"]
 
 [window]
 decorations_theme_variant = "Light"
-opacity = 0.85
+opacity = 0.75
 blur = true
 
 [font]
