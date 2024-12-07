@@ -5,12 +5,13 @@ import = [
 
 [terminal]
 shell.program = "/bin/zsh"
-shell.args = ["-l"]
+shell.args = ["-l", "-c", "zellij"]
 
 [window]
 decorations_theme_variant = "Light"
-opacity = 0.75
+opacity = 0.90
 blur = true
+option_as_alt = "Both"
 
 [font]
 size = 18.0
